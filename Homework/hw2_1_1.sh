@@ -12,3 +12,9 @@ let temp=temp/9
 # output the temperature in Celsius
 echo "The temperature in Celsius is $temp"
 
+# convert the temperature to Kelvin
+let temp=temp+273
+
+# output the temperature in Kelvin
+echo "The temperature in Celsius is $temp"
+
